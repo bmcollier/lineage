@@ -390,14 +390,14 @@ var PedigreeEditor = Class.create({
       },
       {
         'name' : 'first_name',
-        'label': 'First name',
+        'label': 'Prefix',
         'type' : 'text',
         'tab': 'Personal',
         'function' : 'setFirstName'
       },
       {
         'name' : 'last_name',
-        'label': 'Last name',
+        'label': 'Name',
         'type' : 'text',
         'tab': 'Personal',
         'function' : 'setLastName'
